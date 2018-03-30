@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Macbeth
 tagline:          丢人
-url:              https://github.com/karloespiritu/blackdoc
+url:              https://github.com/ChenCrazy
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
