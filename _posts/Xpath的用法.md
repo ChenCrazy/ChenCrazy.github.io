@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Xpath的用法
 ---
 
