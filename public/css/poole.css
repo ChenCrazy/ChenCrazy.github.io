@@ -60,14 +60,14 @@ html {
 
 body {
   color: #515151;
-  background-color: FF524C;
+  background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #FF524C;
+  color: #268bd2;
   text-decoration: none;
 }
 a strong {
@@ -133,7 +133,7 @@ hr {
   margin: 1.5rem 0;
   border: 0;
   border-top: 1px solid #eee;
-  border-bottom: 1px solid FF524C;
+  border-bottom: 1px solid #fff;
 }
 
 abbr {
@@ -371,7 +371,7 @@ tbody tr:nth-child(odd) th {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #FF524C;
+  color: #268bd2;
   text-decoration: none;
 }
 .related-posts li a:hover small {

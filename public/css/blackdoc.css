@@ -72,7 +72,7 @@ a:hover {
   display: inline-block;
   padding: .25rem 1rem;
   font-family: "PT Sans", sans-serif;
-  color: #ebcb8b;
+  color: #cc3333;
   border: .1rem solid #32343c;
   border-radius: .1rem;
 }
@@ -80,8 +80,8 @@ a:hover {
 .btn:hover,
 .btn:focus {
   color: #26282d;
-  background-color: #ebcb8b;
-  border-color: #ebcb8b;
+  background-color: #cc3333;
+  border-color: #cc3333;
 }
 
 strong,
@@ -91,7 +91,7 @@ b {
 /* Code */
 
 code {
-  color: #D12B25;
+  color: #993030;
   white-space: pre-wrap;
   background-color: #222;
 }
