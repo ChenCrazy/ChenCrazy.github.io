@@ -5,9 +5,9 @@ highlighter:      rouge
 # Setup
 title:            Macbeth
 tagline:          丢人
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
+description:      "Macbeth's Notes"
 url:              https://github.com/ChenCrazy/ChenCrazy.github.io
-baseurl:          /
+baseurl:          //
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
